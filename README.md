@@ -1,1 +1,2 @@
-# AIforMedicine_3_AI.for.Medical.Treatment
+# AI For Medical Treatment
+## (Coursera - AI for Medicine Specialization)
